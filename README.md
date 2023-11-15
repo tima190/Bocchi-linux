@@ -4,6 +4,11 @@
 </div>
 <div align="center">
 <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/tima190/bocchi-linux">
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/tima190/bocchi-linux/main">
 </div>
-
-arch based distro, with easy customization
+<div align="center">
+<b>arch based distro, with easy customization</b>
+</div>
+<h2> developers</h2>
+GrechkaGK🍕 - <a href="https://github.com/tima190">link GitHub</a>
+<div>and... other.</div>
