@@ -1,0 +1,11 @@
+NAME="Bocchi linux"
+PRETTY_NAME="Bocchi linux"
+ID=bocchi
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/tima190/Bocchi-linux"
+DOCUMENTATION_URL="hhttps://github.com/tima190/Bocchi-linux/wiki"
+SUPPORT_URL="https://github.com/tima190/Bocchi-linux/issues"
+BUG_REPORT_URL="https://github.com/tima190/Bocchi-linux/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
