@@ -12,3 +12,5 @@
 <h2> developers</h2>
 GrechkaGK🍕 - <a href="https://github.com/tima190">link GitHub</a>
 <div>and... other.</div>
+
+ !TG - https://t.me/grechka_GK_tg

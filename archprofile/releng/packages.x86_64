@@ -134,6 +134,7 @@ glibc
 libnotify
 librsvg
 pango
+qtile
 python
 python-cairocffi
 python-cffi
@@ -160,3 +161,5 @@ python-pywlroots
 python-setproctitle
 python-xdg
 xorg-xwayland
+xorg-xinit
+ttf-jetbrains-mono
