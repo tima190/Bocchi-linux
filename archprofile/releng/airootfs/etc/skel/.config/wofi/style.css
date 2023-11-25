@@ -1,0 +1,22 @@
+window {
+        font-size: 24px;
+        font-family: "JetBrainsMonoNL NFM Medium";
+        background-color: rgba(140, 144, 168, 0.5);
+        border-radius: 10px;
+}
+#entry:selected{
+    background: rgb(223,174,241);
+    background: linear-gradient(90deg, rgba(223,174,241,0.8) 0%, rgba(121,221,241,0.8) 100%);
+}
+#entry{
+    padding: 10px;
+}
+#input{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+image {
+    margin-left: .25em;
+    margin-right: 0.60em;
+}

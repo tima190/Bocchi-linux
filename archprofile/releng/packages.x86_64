@@ -163,3 +163,8 @@ python-xdg
 xorg-xwayland
 xorg-xinit
 ttf-jetbrains-mono
+xorg-xrdb
+picom
+neofetch
+alacritty
+wofi
