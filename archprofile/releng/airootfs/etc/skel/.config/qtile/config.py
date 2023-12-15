@@ -37,7 +37,6 @@ qconf = home + "/.config/qtile/"
 mod = "mod4"
 
 terminal = guess_terminal()
-rr = qconf + "recordrofi"
 volmute = qconf + "vol.sh mute"
 volup = qconf + "vol.sh up"
 voldown = qconf + "vol.sh down"
